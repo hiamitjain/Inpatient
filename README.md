@@ -1,6 +1,6 @@
 # Inpatient
 
-*** Diagnostic Information ***
+**** Diagnostic Information ****
 *******************************************************************************************************************
 This module provide information about Providers, their services, and the incurred cost for a given treatment.
 It can also provide the cheapest and the costliest provider, and various insights on Inpatient data.
