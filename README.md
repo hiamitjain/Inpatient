@@ -1,5 +1,5 @@
 # Inpatient
 
 *******************************************************************************************************************
-This module analyze the Inatient data to derive various insights
+This module analyze the Inpatient data to derive various insights
 *******************************************************************************************************************
