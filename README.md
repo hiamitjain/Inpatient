@@ -6,9 +6,11 @@ This module provide information about Providers, their services, and the incurre
 It can also provide the cheapest and the costliest provider, and various insights on Inpatient data.
 *******************************************************************************************************************
 Here are the KEYWORDS to get the desired information:
+
 --PROVIDER zip/city/state value
     Return Providers in a given ZIP/CITY/STATE. If provider not found for the ZIP then return information for 10 nearby 
     ZIP.
+    
     ** USAGE **
     --PROVIDER ZIP 12345 
     --PROVIDER CITY 'NEW YORK'
